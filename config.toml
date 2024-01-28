@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://adidoks.netlify.com"
+base_url = "https://medinardaniel.github.io/mysite "
 title = "Daniel's Portfolio"
 description = "Daniel Medina is an AI student at Duke. This site contains the projects he's worked on."
 
